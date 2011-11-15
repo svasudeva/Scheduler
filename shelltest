@@ -1,0 +1,6 @@
+#!/usr/pkg/bin/bash
+
+./cpubound &
+./iobound &
+./cpuio &
+wait
