@@ -1,3 +1,7 @@
+/*********************************************************/
+/*	Program for a cpubound process which  does the   */
+/*      matrix multiplication                            */
+/********************************************************/
 #include<stdio.h>
 #include<time.h>
 #include<sys/times.h>
