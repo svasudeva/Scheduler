@@ -1,3 +1,7 @@
+/*********************************************************/
+/*	Program for an iobound process which reads from  */
+/*      a file and writes to another file 100000 times	*/
+/******************************************************/
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
