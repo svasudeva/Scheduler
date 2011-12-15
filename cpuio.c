@@ -1,3 +1,8 @@
+/*********************************************************/
+/*	Program for a cpuio process which reads from     */
+/*      a file and writes the results		         */
+/*      after doing the matrix multiplication            */
+/*********************************************************/
 #include<stdio.h>
 #include<time.h>
 #include<sys/times.h>
