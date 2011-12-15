@@ -1,4 +1,2 @@
-#Readme File:Scheduler Test done for changes in user quantum and changes to number of scheduler queues
-/*****************************************************************************************************/
-/*User Quantums Tested for: 500 and 1000*/
-/**/
+#Readme File:Scheduler Test done for changes in user quantum and changes to number of scheduler queues. 
+#Benchmarking results have been recorded in an excel sheet and a word document states the observations.
